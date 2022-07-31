@@ -1,0 +1,22 @@
+* {
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+}
+
+h1 {
+    text-align:center;
+    color:pink;
+    font-size:60px;
+
+}
+
+h4 {
+    color:pink;
+    font-size:50px;
+}
+
+img {
+    width: 300px;
+    height:auto;
+    align-self: center;
+}
